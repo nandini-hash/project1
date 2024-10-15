@@ -1,0 +1,8 @@
+git init
+git add '
+git commit -m "tag"
+git log
+git log --oneline
+git status
+git clone <url of github>
+git push -u oroigin main
